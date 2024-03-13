@@ -1,11 +1,11 @@
 {
-  "name": "PROFIGEN",
-  "symbol": "PROFI",
-  "description": "Wings of Hope for Birds Everywhere",
-  "image": "https://profi-gen.com/profi-logo-small.png",
+  "name": "MOMO 2.0",
+  "symbol": "MOMO",
+  "description": "MOMO 2.0 is the peoples cryptocurrency with utilities for continuous growth in crypto world.",
+  "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/momo20.png",
   "extensions": {
-    "website": "https://profi-gen.com",
-    "twitter": "https://twitter.com/profi_gen",
-    "telegram": "https://t.me/profigen"
+    "website": "https://momoerc20.com",
+    "twitter": "https://twitter.com/MOMOerc2_0",
+    "telegram": "https://t.me/momoerc_Ann"
   }
 }
