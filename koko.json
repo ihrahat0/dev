@@ -1,7 +1,7 @@
 {
   "name": "Gorilla koko",
   "symbol": "Koko",
-  "description": "Hanabiko "KOKO", the most famous gorilla in the world",
+  "description": "Hanabiko KOKO, the most famous gorilla in the world",
   "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/koko-logo.jpg",
   "extensions": {
     "website": "https://www.lovekoko.site",
