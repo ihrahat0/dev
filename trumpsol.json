@@ -1,1 +1,11 @@
 
+{
+    "name": "Trump SOL",
+    "symbol": "TRUMP",
+    "description": "Trump Sol is in love with Mr Donald J Trump, The multi billionaire Former US President.",
+    "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/trumpsol.png",
+    "extensions": {
+      "website": "https://www.trump-solana.com"
+    }
+  }
+  
