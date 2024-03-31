@@ -1,0 +1,13 @@
+
+{
+    "name": "Cat wif pineapple hat",
+    "symbol": "CatWifPine",
+    "description": "Cat wif pineapple hat",
+    "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/catwifpine.jpeg",
+    "extensions": {
+      "website": "https://www.catwifpine.lol",
+      "twitter": "https://twitter.com/catwifpine",
+      "telegram": "https://t.me/catwifpinehat"
+    }
+  }
+  
