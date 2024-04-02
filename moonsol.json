@@ -1,0 +1,11 @@
+{
+  "name": "MOONSOL",
+  "symbol": "MOON",
+  "description": "MOONSOL",
+  "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/Moonsolchain.png",
+  "extensions": {
+    "website": "https://moonsol.online",
+    "twitter": "https://twitter.com/MOONSOLCHAIN",
+    "telegram": "https://t.me/moonsol1"
+  }
+}
