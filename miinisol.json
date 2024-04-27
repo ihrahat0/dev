@@ -1,0 +1,12 @@
+{
+    "name": "MIINI SOL",
+    "symbol": "MIINISOL",
+    "description": "Small coin, Big Dreams",
+    "image": "https://raw.githubusercontent.com/ihrahat0/dev/main/miinisol-logo.jpg",
+    "extensions": {
+      "website": "https://miinisol.com",
+      "twitter": "https://twitter.com/miinisol",
+      "telegram": "https://t.me/miinisol"
+    }
+  }
+  
